@@ -2121,40 +2121,20 @@ body {
 .cid-qTkBfOGCIF .mbr-timeline-title {
   color: #ffffff;
 }
-.cid-qTkxX3Cth6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+.cid-qTkL4TsSjD {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
 }
-.cid-qTkxX3Cth6 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qTkxX3Cth6 .media-row {
-  display: flex;
-  justify-content: center;
-}
-.cid-qTkxX3Cth6 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-qTkxX3Cth6 .team-item .item-image img {
-  width: 100%;
-}
-.cid-qTkxX3Cth6 .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-qTkxX3Cth6 .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-qTkxX3Cth6 .team-item .item-social {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-qTkxX3Cth6 .team-item .item-social .socicon {
+.cid-qTkL4TsSjD .testimonial-text {
+  font-style: italic;
   color: #232323;
-  font-size: 17px;
+  font-weight: 300;
 }
-.cid-qTkxX3Cth6 .team-item .item-caption {
-  background: #ffffff;
+.cid-qTkL4TsSjD .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-qTkL4TsSjD .mbr-author-desc {
+  color: #767676;
 }
